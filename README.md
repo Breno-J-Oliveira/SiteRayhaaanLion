@@ -50,7 +50,10 @@ A ideia é praticar a utilização de **links externos, imagens clicáveis e est
 2. Certifique-se de que o arquivo **imagem 2.jpg** está na mesma pasta do **index.html**.  
 3. Abra o arquivo `index.html` no navegador.  
 
+
 ---
 
-## 📂 Estrutura do Projeto
+## ✅ Conclusão
 
+Este mini-projeto mostra como criar uma página **HTML simples e funcional** para apresentar um produto com links de compra.  
+Pode servir como base para **portfólios, trabalhos escolares, páginas de produtos ou pequenos sites comerciais**.  
